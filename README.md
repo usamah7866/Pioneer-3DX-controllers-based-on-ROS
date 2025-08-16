@@ -18,4 +18,4 @@ This repository includes multiple advanced controllers, each in its own folder:
 
 🔹 4. Simple Kinematic Controller
 
-🔹 5. Kinematic Controller
+🔹 5. Leader Follower Controller
