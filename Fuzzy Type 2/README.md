@@ -38,8 +38,7 @@ fuzzy2_controller/
 - Gazebo with Pioneer 3-DX model  
 - Gnuplot (for plotting results)
 
-Install Gnuplot if missing:
-```bash
+Install Gnuplot if missing
 sudo apt-get install gnuplot
 
 ▶️ **How to Run**
