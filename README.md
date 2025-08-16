@@ -17,3 +17,5 @@ This repository includes multiple advanced controllers, each in its own folder:
 🔹 3. Type-2 Fuzzy Logic Controller
 
 🔹 4. Simple Kinematic Controller
+
+🔹 5. Kinematic Controller
